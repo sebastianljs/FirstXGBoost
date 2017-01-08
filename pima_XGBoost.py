@@ -29,9 +29,19 @@ model.fit(features_train, target_train)
 
 target_pred = model.predict(features_test)
 
-# Round off predictions
+# Round off predictions (Since the predictions are binary)
 
 predictions = [round(value) for value in target_pred]
 
 accuracy = accuracy_score(target_test, predictions)
-print("Accuracy %2f%%" % (accuracy * 100.0))
+
+# Output with accuracy up to 2 decimal places in percentage
+print("{:.2%}".format(accuracy))
+
+# AWS API Interface Test
+
+import boto3
+
+s3 = boto3.resource('s3')
+for bucket in s3.buckets.all():
+    print(bucket.name)
