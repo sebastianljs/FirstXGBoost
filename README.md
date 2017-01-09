@@ -12,6 +12,14 @@ The following datasets from UCI's Machine Learning Repository are used
 
 ## Problem Overview 
 
+### Iris Dataset
+### Breast Cancer Dataset 
+### Horse-colic Dataset
+
+## Algorithm Overview
+
+The algorithm 
+
 ## Hacks I have discovered   
 
 ### Automatically generating python script and HTML whenever a Jupyter Notebook is saved 
