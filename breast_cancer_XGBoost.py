@@ -40,6 +40,7 @@ label_encoder = LabelEncoder()
 target_encoded = label_encoder.fit_transform(target)
 
 # Split data into training and testing datasets
+
 seed = 7
 test_size = 0.33
 features_train, features_test, target_train, target_test = \
