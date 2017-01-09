@@ -1,7 +1,8 @@
 
 # coding: utf-8
 
-# binary classification, breast cancer dataset, label and one hot encoded
+# # Load relevant packages
+
 from numpy import column_stack
 from pandas import read_csv
 from xgboost import XGBClassifier
@@ -11,14 +12,14 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OneHotEncoder
 
 
-# load data and drop missing values
+# Load data and drop missing values
 
 data = read_csv('breast-cancer.csv', header=None)
 data = data.dropna()
 data = data.values
 
 
-# split data into X and y
+# Split data into X and y
 
 features = data[:, 0:9]
 target = data[:, 9]

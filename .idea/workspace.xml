@@ -7,6 +7,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/breast_cancer_XGBoost.html" afterPath="$PROJECT_DIR$/breast_cancer_XGBoost.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/breast_cancer_XGBoost.ipynb" afterPath="$PROJECT_DIR$/breast_cancer_XGBoost.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/breast_cancer_XGBoost.py" afterPath="$PROJECT_DIR$/breast_cancer_XGBoost.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iris_XGBoost.py" afterPath="$PROJECT_DIR$/iris_XGBoost.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pima_XGBoost.py" afterPath="$PROJECT_DIR$/pima_XGBoost.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,32 +40,43 @@
       <file leaf-file-name="pima_XGBoost.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pima_XGBoost.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#73#98#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iris_XGBoost.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="iris_XGBoost.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iris_XGBoost.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
+                <element signature="e#45#72#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="breast_cancer_XGBoost.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
+      <file leaf-file-name="iris_XGBoost.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iris_XGBoost.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="breast_cancer_XGBoost.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#46#76#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,6 +87,15 @@
             <state relative-caret-position="2145">
               <caret line="143" column="29" lean-forward="false" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="breast_cancer_XGBoost.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -103,11 +125,11 @@
         <option value="$PROJECT_DIR$/FirstXGBoost.py" />
         <option value="$PROJECT_DIR$/horse_colic_XGBoost.py" />
         <option value="$PROJECT_DIR$/breast-cancer.csv" />
-        <option value="$PROJECT_DIR$/iris_XGBoost.py" />
         <option value="/code.py" />
-        <option value="$PROJECT_DIR$/breast_cancer_XGBoost.ipynb" />
         <option value="$PROJECT_DIR$/breast_cancer_XGBoost.html" />
         <option value="$PROJECT_DIR$/breast_cancer_XGBoost.py" />
+        <option value="$PROJECT_DIR$/breast_cancer_XGBoost.ipynb" />
+        <option value="$PROJECT_DIR$/iris_XGBoost.py" />
       </list>
     </option>
   </component>
@@ -118,8 +140,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="339" />
-    <option name="y" value="429" />
+    <option name="x" value="539" />
+    <option name="y" value="168" />
     <option name="width" value="1774" />
     <option name="height" value="1227" />
   </component>
@@ -487,7 +509,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="339" y="429" width="1774" height="1227" extended-state="0" />
+    <frame x="539" y="168" width="1774" height="1227" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25535512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -527,9 +549,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#73#98#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -538,7 +558,7 @@
         <state relative-caret-position="330">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#45#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -548,7 +568,7 @@
         <state relative-caret-position="315">
           <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
           <folding>
-            <element signature="e#92#122#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -572,9 +592,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#73#98#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -583,7 +601,7 @@
         <state relative-caret-position="330">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#45#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -593,7 +611,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#92#122#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -610,9 +628,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#73#98#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +637,7 @@
         <state relative-caret-position="330">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#45#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -631,7 +647,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#92#122#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -671,16 +687,6 @@
     <entry file="file://$PROJECT_DIR$/FirstXGBoost.py" />
     <entry file="file://$PROJECT_DIR$/datasets-uci-breast-cancer.csv" />
     <entry file="file://$PROJECT_DIR$/horse_colic_XGBoost.py" />
-    <entry file="file://$PROJECT_DIR$/pima_XGBoost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#73#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/breast-cancer.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2145">
@@ -717,52 +723,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="e#92#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
           <folding>
-            <marker date="1483968265000" expanded="false" signature="250432:250438" ph=" " />
-            <marker date="1483968265000" expanded="false" signature="251131:251137" ph=" " />
-            <marker date="1483968265000" expanded="false" signature="253484:253490" ph="&quot;" />
-            <marker date="1483968265000" expanded="false" signature="253506:253512" ph="&quot;" />
-            <marker date="1483968265000" expanded="false" signature="254056:254062" ph=" " />
-            <marker date="1483968265000" expanded="false" signature="254761:254767" ph=" " />
-            <marker date="1483968265000" expanded="false" signature="255941:255947" ph=" " />
-            <marker date="1483968265000" expanded="false" signature="257008:257013" ph="'" />
-            <marker date="1483968265000" expanded="false" signature="257028:257033" ph="'" />
-            <marker date="1483968265000" expanded="false" signature="257278:257284" ph=" " />
-            <marker date="1483968265000" expanded="false" signature="258179:258185" ph=" " />
-            <marker date="1483968265000" expanded="false" signature="258658:258664" ph="&quot;" />
-            <marker date="1483968265000" expanded="false" signature="258718:258724" ph="&quot;" />
+            <marker date="1483968742000" expanded="false" signature="250385:250391" ph=" " />
+            <marker date="1483968742000" expanded="false" signature="251085:251091" ph=" " />
+            <marker date="1483968742000" expanded="false" signature="253438:253444" ph="&quot;" />
+            <marker date="1483968742000" expanded="false" signature="253460:253466" ph="&quot;" />
+            <marker date="1483968742000" expanded="false" signature="254010:254016" ph=" " />
+            <marker date="1483968742000" expanded="false" signature="254715:254721" ph=" " />
+            <marker date="1483968742000" expanded="false" signature="255895:255901" ph=" " />
+            <marker date="1483968742000" expanded="false" signature="256962:256967" ph="'" />
+            <marker date="1483968742000" expanded="false" signature="256982:256987" ph="'" />
+            <marker date="1483968742000" expanded="false" signature="257232:257238" ph=" " />
+            <marker date="1483968742000" expanded="false" signature="258133:258139" ph=" " />
+            <marker date="1483968742000" expanded="false" signature="258612:258618" ph="&quot;" />
+            <marker date="1483968742000" expanded="false" signature="258672:258678" ph="&quot;" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pima_XGBoost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#46#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris_XGBoost.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/iris_XGBoost.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#45#72#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris_XGBoost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
