@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7b7e9bf7-f0e1-49b6-941b-7a3e5ab97b0b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/breast_cancer_XGBoost-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/breast_cancer_XGBoost-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/breast_cancer_XGBoost.py" afterPath="$PROJECT_DIR$/breast_cancer_XGBoost.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,23 +57,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="breast_cancer_XGBoost.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="breast_cancer_XGBoost.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="-15">
+              <caret line="46" column="40" lean-forward="false" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
               <folding>
-                <element signature="e#74#104#0" expanded="true" />
+                <element signature="e#102#132#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="breast_cancer_XGBoost.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="breast_cancer_XGBoost.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+              <folding>
+                <marker date="1483944780000" expanded="true" signature="250365:251008" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="250422:250428" ph=" " />
+                <marker date="1483944780000" expanded="true" signature="250491:250986" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="250528:250978" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="250533:250972" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="251064:253933" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="251121:251127" ph=" " />
+                <marker date="1483944780000" expanded="true" signature="251190:253669" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="251227:253661" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="251232:253655" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="253474:253480" ph="&quot;" />
+                <marker date="1483944780000" expanded="false" signature="253496:253502" ph="&quot;" />
+                <marker date="1483944780000" expanded="true" signature="253713:253925" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="253762:253910" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="253989:254638" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="254046:254052" ph=" " />
+                <marker date="1483944780000" expanded="true" signature="254115:254616" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="254152:254608" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="254157:254602" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="254694:255818" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="254751:254757" ph=" " />
+                <marker date="1483944780000" expanded="true" signature="254820:255796" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="254857:255788" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="254862:255782" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="255874:257635" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="255931:255937" ph=" " />
+                <marker date="1483944780000" expanded="true" signature="256000:257058" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="256037:257050" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="256042:257044" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="257102:257627" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="257151:257612" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="257478:257483" ph="'" />
+                <marker date="1483944780000" expanded="false" signature="257498:257503" ph="'" />
+                <marker date="1483944780000" expanded="true" signature="257691:258536" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="257748:257754" ph=" " />
+                <marker date="1483944780000" expanded="true" signature="257817:258514" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="257854:258506" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="257859:258500" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="258592:259598" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="258649:258655" ph=" " />
+                <marker date="1483944780000" expanded="true" signature="258718:259354" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="258755:259346" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="258760:259340" ph="..." />
+                <marker date="1483944780000" expanded="false" signature="259128:259134" ph="&quot;" />
+                <marker date="1483944780000" expanded="false" signature="259188:259194" ph="&quot;" />
+                <marker date="1483944780000" expanded="true" signature="259398:259590" ph="..." />
+                <marker date="1483944780000" expanded="true" signature="259447:259575" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="breast_cancer_XGBoost.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="6" />
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -113,9 +172,10 @@
         <option value="$PROJECT_DIR$/horse_colic_XGBoost.py" />
         <option value="$PROJECT_DIR$/breast-cancer.csv" />
         <option value="$PROJECT_DIR$/iris_XGBoost.py" />
-        <option value="$PROJECT_DIR$/breast_cancer_XGBoost.py" />
-        <option value="$PROJECT_DIR$/breast_cancer_XGBoost.ipynb" />
         <option value="/code.py" />
+        <option value="$PROJECT_DIR$/breast_cancer_XGBoost.ipynb" />
+        <option value="$PROJECT_DIR$/breast_cancer_XGBoost.html" />
+        <option value="$PROJECT_DIR$/breast_cancer_XGBoost.py" />
       </list>
     </option>
   </component>
@@ -126,8 +186,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="752" />
-    <option name="y" value="157" />
+    <option name="x" value="605" />
+    <option name="y" value="116" />
     <option name="width" value="1774" />
     <option name="height" value="1227" />
   </component>
@@ -495,7 +555,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="752" y="157" width="1774" height="1227" extended-state="0" />
+    <frame x="605" y="116" width="1774" height="1227" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25535512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -556,7 +616,7 @@
         <state relative-caret-position="315">
           <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
           <folding>
-            <element signature="e#74#104#0" expanded="true" />
+            <element signature="e#102#132#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -601,7 +661,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#74#104#0" expanded="true" />
+            <element signature="e#102#132#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -639,7 +699,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#74#104#0" expanded="true" />
+            <element signature="e#102#132#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -735,20 +795,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.py">
+    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        <state relative-caret-position="60">
+          <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
           <folding>
-            <element signature="e#74#104#0" expanded="true" />
+            <marker date="1483944780000" expanded="true" signature="250365:251008" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="250422:250428" ph=" " />
+            <marker date="1483944780000" expanded="true" signature="250491:250986" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="250528:250978" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="250533:250972" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="251064:253933" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="251121:251127" ph=" " />
+            <marker date="1483944780000" expanded="true" signature="251190:253669" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="251227:253661" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="251232:253655" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="253474:253480" ph="&quot;" />
+            <marker date="1483944780000" expanded="false" signature="253496:253502" ph="&quot;" />
+            <marker date="1483944780000" expanded="true" signature="253713:253925" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="253762:253910" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="253989:254638" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="254046:254052" ph=" " />
+            <marker date="1483944780000" expanded="true" signature="254115:254616" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="254152:254608" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="254157:254602" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="254694:255818" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="254751:254757" ph=" " />
+            <marker date="1483944780000" expanded="true" signature="254820:255796" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="254857:255788" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="254862:255782" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="255874:257635" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="255931:255937" ph=" " />
+            <marker date="1483944780000" expanded="true" signature="256000:257058" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="256037:257050" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="256042:257044" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="257102:257627" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="257151:257612" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="257478:257483" ph="'" />
+            <marker date="1483944780000" expanded="false" signature="257498:257503" ph="'" />
+            <marker date="1483944780000" expanded="true" signature="257691:258536" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="257748:257754" ph=" " />
+            <marker date="1483944780000" expanded="true" signature="257817:258514" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="257854:258506" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="257859:258500" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="258592:259598" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="258649:258655" ph=" " />
+            <marker date="1483944780000" expanded="true" signature="258718:259354" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="258755:259346" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="258760:259340" ph="..." />
+            <marker date="1483944780000" expanded="false" signature="259128:259134" ph="&quot;" />
+            <marker date="1483944780000" expanded="false" signature="259188:259194" ph="&quot;" />
+            <marker date="1483944780000" expanded="true" signature="259398:259590" ph="..." />
+            <marker date="1483944780000" expanded="true" signature="259447:259575" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="6" />
+    <entry file="file://$PROJECT_DIR$/breast_cancer_XGBoost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="46" column="40" lean-forward="false" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+          <folding>
+            <element signature="e#102#132#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
