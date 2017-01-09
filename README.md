@@ -28,9 +28,6 @@ I found this excellent [article](http://svds.com/jupyter-notebook-best-practices
 
 ### Modifying python.tpl in order to remove execution count when generating python script from Jupyter
 
-I modified the [python.tpl](https://github.com/jupyter/nbconvert/blob/master/nbconvert/templates/python.tpl) file by changing the block prompt format to 
-```{tpl}
-{% block in_prompt -%}
-{% endblock in_prompt %}
-```
+I removed line 8 of the [python.tpl](https://github.com/jupyter/nbconvert/blob/master/nbconvert/templates/python.tpl) file. 
+
 This removes the execution count `In[]` which by default appears as comments in the python script generated from Jupyter notebooks, which reduces clutter. 
